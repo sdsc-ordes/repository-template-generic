@@ -5,16 +5,18 @@ title: "My Project"
 authors:
   - family-names: Wonderland
     given-names: Alice
-    orcid: "..."
+    orcid: "https://orcid.org/0000-0001-7414-8743"
     affiliation: "SDSC - Swiss Data Science Center"
   - family-names: Wonderland
     given-names: Bob
-    orcid: "..."
+    orcid: "https://orcid.org/0000-0001-7414-8743"
     affiliation: "SDSC - Swiss Data Science Center"
 date-released: 2025-13-13
 version: "0.0.1"
-doi: ""
+identifiers:
+  - type: doi
+    value: 10.1234/ze
 url: https://github.com/swissdatasciencecenter/my-project
 repository-code: https://github.com/swissdatasciencecenter/my-project
-keywords: []
+keywords: [key, word]
 license: apache2
