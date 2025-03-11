@@ -18,5 +18,5 @@ identifiers:
     value: 10.1234/ze
 url: https://github.com/swissdatasciencecenter/my-project
 repository-code: https://github.com/swissdatasciencecenter/my-project
-keywords: [key, word]
+keywords: [mykeyword1,  mykeyword2]
 license: apache2
